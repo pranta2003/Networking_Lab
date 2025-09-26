@@ -11,7 +11,7 @@ It includes a **live HTML animation** showing the steps for beginners.
 1. Open your terminal (PowerShell, Git Bash, or Linux/Mac Terminal).
 2. Navigate to your repository folder:
 
-```bash
+
 cd /path/to/your/repo
 Run the following command to rewrite history with your correct name/email:
 
